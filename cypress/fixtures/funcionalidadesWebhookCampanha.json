@@ -1,0 +1,20 @@
+{
+  "codigoHealthCheck": 500,
+  "codigoHealthCheck400": 400,
+  "validacao": {
+    "IsValid": true,
+    "StatusCode": 200,
+    "Messages": [
+        {
+            "Code": 200,
+            "Content": [
+                "Upsert iniciado às",
+                "2 upserts obtiveram sucesso!",
+                "0 upserts falharam!"
+            ],
+            "Type": "upsertCampaignPaymentMethods"
+        }
+    ]
+}
+
+}

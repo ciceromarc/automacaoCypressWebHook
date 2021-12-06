@@ -1,0 +1,22 @@
+{
+  "name": "ApiLannister",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:open":"npx cypress open",
+    "cy:run": "npx cypress run",
+    "allure:serve":"alure serve allure-results",
+    "cy:run-dash":"npx cypress run --record --key 6cac2615-736e-4ae9-a7fc-f1ffc3d6c6c5"    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@shelex/cypress-allure-plugin": "^2.22.1",
+    "allure-commandline": "^2.13.8",
+    "cypress": "^9.0.0",
+    "cypress-grep": "^1.0.0",
+    "joi": "^17.4.2"
+  }
+}

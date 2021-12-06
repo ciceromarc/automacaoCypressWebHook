@@ -1,0 +1,15 @@
+{
+  "codigoHealthCheck": 400,
+
+  "validacao": {
+    "CorrelationId": "77adc478-2c82-45c4-a806-b2d0a5ce0b14",
+    "Topic": null,
+    "Key": null,
+    "Bandeira": "CasasBahia",
+    "Token": null,
+    "TimeStamp": "2020-08-15T12:23:16.714-03:00",
+    "Message": {
+        "Content":"{\"Skus\":[{\"Codigo\":\"\",\"PrecoDe\":26.081,\"PrecoPor\":79.90,\"Disponibilidade\":10,\"IdCampanha\":3103,\"IdLojista\":123,\"TiposEntrega\":[]}]}"
+     }
+   } 
+}

@@ -1,0 +1,7 @@
+{
+    "codigoHealthCheck": 200,
+    "validacao": {
+        "IsValid": true,
+        "StatusCode": 200
+    }
+}
