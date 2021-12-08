@@ -1,0 +1,11 @@
+{
+  "validacao": {
+    "data": {
+      "setDefaultCampaign": {
+        "campaignId": "550fb36c-02a2-4651-9180-2dc52baef09b",
+        "isDefault": true,
+        "campaignIdError": "880fb36c-02a2-4651-9180-2dc52baef09b"
+      }
+    }
+  }
+}

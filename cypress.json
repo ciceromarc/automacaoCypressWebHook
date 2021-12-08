@@ -10,6 +10,7 @@
         "urltracking": "http://localhost:3109/api/",
         "urproduct": "http://localhost:3111/api/",
         "serverest": "http://serverest.dev/usuarios/",
+        "UrlAdmin": "http://localhost:3008/graphql/playground",
         "allure":true
     },
 
