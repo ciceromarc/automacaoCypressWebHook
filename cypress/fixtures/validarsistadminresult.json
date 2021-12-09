@@ -1,0 +1,10 @@
+{
+    "validacaoservico": {
+        "data": {
+            "adminSystemInfo": {
+                "name": "Fullcommerce - Microsserviço de Admin",
+                "version": "0.0.2"
+            }
+        }
+    }
+}

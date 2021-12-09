@@ -1,0 +1,10 @@
+{
+    "validacaoservicocatalog": {
+        "data": {
+            "catalogSystemInfo": {
+                "name": "Fullcommerce - Serviço de Catálogo",
+                "version": "0.0.2"
+            }
+        }
+    }
+}

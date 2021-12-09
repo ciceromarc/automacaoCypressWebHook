@@ -1,0 +1,10 @@
+{
+    "validacaoservicoprice": {
+        "data": {
+            "priceSystemInfo": {
+                "name": "Fullcommerce - Microserviço de preço",
+                "version": "0.0.2"
+            }
+        }
+    }
+}

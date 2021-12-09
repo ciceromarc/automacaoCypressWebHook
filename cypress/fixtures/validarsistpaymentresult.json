@@ -1,0 +1,10 @@
+{
+    "validacaoservicopayment": {
+        "data": {
+            "paymentSystemInfo": {
+                "name": "Fullcommerce - Serviço de Pagamento",
+                "version": "0.0.2"
+            }
+        }
+    }
+}

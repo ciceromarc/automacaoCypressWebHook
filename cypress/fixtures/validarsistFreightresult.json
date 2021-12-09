@@ -1,0 +1,10 @@
+{
+    "validacaoservicofreight": {
+        "data": {
+            "freightSystemInfo": {
+                "name": "Fullcommerce - Microservice Catálogo",
+                "version": "0.0.2"
+            }
+        }
+    }
+}

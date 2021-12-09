@@ -1,0 +1,10 @@
+{
+    "validacaoservicostock": {
+        "data": {
+            "stockSystemInfo": {
+                "name": "Fullcommerce - Serviço de Estoque",
+                "version": "0.0.2"
+            }
+        }
+    }
+}

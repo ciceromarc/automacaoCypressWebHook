@@ -11,6 +11,12 @@
         "urproduct": "http://localhost:3111/api/",
         "serverest": "http://serverest.dev/usuarios/",
         "UrlAdmin": "http://localhost:3008/graphql/playground",
+        "UrlCatalog": "http://localhost:3002/graphql/playground",
+        "UrlOrder": "http://localhost:3007/graphql/playground",
+        "UrlPayment": "http://localhost:3006/graphql/playground",
+        "UrlFreight": "http://localhost:3005/graphql/playground",
+        "UrlPrice": "http://localhost:3003/graphql/playground",
+        "UrlStock": "http://localhost:3004/graphql/playground",
         "allure":true
     },
 

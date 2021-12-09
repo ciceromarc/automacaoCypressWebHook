@@ -7,9 +7,9 @@ context('Alterar campanha default', () => {
   });
   it('Alterar campanha default', function() {
      cy.ValidarCampanhaDefault().then(response => {
-     // expect(response.body.data.setDefaultCampaign.campaignId).to.eq(alteraCampResultFixtures.validacao.data.setDefaultCampaign.campaignId)
-     // expect(response.body.data.setDefaultCampaign.isDefault).to.eq(alteraCampResultFixtures.validacao.data.setDefaultCampaign.isDefault)
-     // expect(response.body.data.setDefaultCampaign.campaignId).to.not.eq(alteraCampResultFixtures.validacao.data.setDefaultCampaign.campaignIdError)
+     expect(response.body.data.setDefaultCampaign.campaignId).to.eq(alteraCampResultFixtures.validacao.data.setDefaultCampaign.campaignId)
+     expect(response.body.data.setDefaultCampaign.isDefault).to.eq(alteraCampResultFixtures.validacao.data.setDefaultCampaign.isDefault)
+     expect(response.body.data.setDefaultCampaign.campaignId).to.not.eq(alteraCampResultFixtures.validacao.data.setDefaultCampaign.campaignIdError)
       alterarCampContractsSchema.validateAsync(response.body)
     })
   });

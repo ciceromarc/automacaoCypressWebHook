@@ -1,0 +1,10 @@
+{
+    "validacaoservicoorder": {
+        "data": {
+            "orderSystemInfo": {
+                "name": "Fullcommerce - Serviço de Pedido",
+                "version": "0.0.2"
+            }
+        }
+    }
+}

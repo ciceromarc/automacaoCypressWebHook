@@ -4,10 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "cy:open":"npx cypress open",
+    "cy:open": "npx cypress open",
     "cy:run": "npx cypress run",
-    "allure:serve":"alure serve allure-results",
-    "cy:run-dash":"npx cypress run --record --key 6cac2615-736e-4ae9-a7fc-f1ffc3d6c6c5"    
+    "allure:serve": "alure serve allure-results",
+    "cy:run-dash": "npx cypress run --record --key 6cac2615-736e-4ae9-a7fc-f1ffc3d6c6c5"
   },
   "keywords": [],
   "author": "",
