@@ -1,0 +1,11 @@
+{
+    "validacaocriaragrupamento": {
+        "data": {
+            "createGroup": {
+                "id": "id",
+                "value": "Teste agrupamento 10",
+                "slug": "teste-agrupamento-10"
+            }
+        }
+    }
+}
