@@ -1,10 +1,12 @@
 {
     "validacaocriaragrupamento": {
         "data": {
-            "createGroup": {
-                "id": "id",
-                "value": "Teste agrupamento 10",
-                "slug": "teste-agrupamento-10"
+            "insertAdminFilterGroup": {
+                "id": "2caa1778-5888-45b0-a97d-3c5f8277d06c",
+                "insertedAt": "2021-12-16T14:07:51",
+                "slug": "grupo-teste-13",
+                "updatedAt": "2021-12-16T14:07:51",
+                "value": "Grupo teste 19"
             }
         }
     }

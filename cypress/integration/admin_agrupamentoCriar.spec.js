@@ -13,8 +13,8 @@ context('Agrupamentos no Admin', () => {
         cy.CriarAgrupamentoAdmin().then(response => {
             //expect(response.body.data.createGroup.value).to.eq(validaragrupamentocriarresultFixtures.validacaocriaragrupamento.data.createGroup.value)
             //expect(response.body.data.createGroup.slug).to.eq(validaragrupamentocriarresultFixtures.validacaocriaragrupamento.data.createGroup.slug)
-            id = (response.body.data.createGroup.id)
-            value = (response.body.data.createGroup.value)
+            id = (response.body.data.insertAdminFilterGroup.id)
+            value = (response.body.data.insertAdminFilterGroup.value)
             cy.log(id)
             //validarsistadminschema.validateAsync(response.body)
         })
@@ -22,7 +22,7 @@ context('Agrupamentos no Admin', () => {
 
     it('Alterar agrupamento', function () {
         cy.AlterarAgrupamentoAdmin(id, value).then(response => {
-        expect(response.body.data.updateGroup.id).to.equal(id)
+        expect(response.body.data.updateAdminFilterGroup.id).to.equal(id)
         })
 
     });

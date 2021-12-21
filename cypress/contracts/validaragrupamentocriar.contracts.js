@@ -3,8 +3,10 @@ import Joi from 'joi'
 
 const creategroupSchema = Joi.object({
     "data": Joi.object({
-      "creategroup": Joi.object({
+      "insertAdminFilterGroup": Joi.object({
         "id": Joi.string(),
+        "insertedAt": Joi.string(),
+        "updatedAt": Joi.string(),
         "value": Joi.string(),
         "slug": Joi.string()
     })
